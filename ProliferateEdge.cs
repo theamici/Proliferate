@@ -4,4 +4,5 @@ public class ProliferateEdge : ProliferateObject
 {
     public ProliferateNode SourceNode;
     public ProliferateNode TargetNode;
+    public ProliferateEdge PairedEdge;
 }
